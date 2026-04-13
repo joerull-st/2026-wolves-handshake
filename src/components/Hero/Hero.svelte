@@ -72,7 +72,7 @@ Renders a visual replica of the Immersive Template hero.
 
 
         </div>
-        <video autoplay="true" loop="" muted="" class="object-cover absolute h-full w-full">
+        <video autoplay="" loop="" muted="true" class="object-cover absolute h-full w-full">
             <source src="https://static.startribune.com/news/projects/all/2026-WOLVES-HANDSHAKE/video%20assets/HANDSHAKES_HERO_16X9%20%281%29.mp4" type="video/mp4">Your browser does not support the video tag.
         </video>
     </div>
