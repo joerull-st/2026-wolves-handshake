@@ -145,10 +145,12 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
     <link rel="stylesheet" href="https://static.startribune.com/news/tools/embeds/video-player/css/video-iframe_070125.css">
   <div class="video-embed default">
 	<div class="video-inner">
-		<iframe src="https://static.startribune.com/news/tools/embeds/video-player/player-no-ads.html?url=https://d2rhwptr68oefh.cloudfront.net/wp-startribunemedia/Carlos_Gonazalez/20260406/69d44223ef096c66f498cf3b/t_05c973f411ef4562bb0160aa8cf5c482_name_HANDSHAKES_Bones_16X9/file_1920x1080-5400-v4.mp4&amp;shape=default&amp;thumbnail=https://arc-goldfish-startribunemedia-thumbnails.s3.amazonaws.com/04-06-2026/t_807abc84fd07436fbab54fe6770a4c2d_name_file_1920x1080_5400_v4_.jpg" scrolling="no" marginheight="0" frameborder="0" allowfullscreen="false" autoplay="true" mute="true"></iframe>
+		<iframe src="https://static.startribune.com/news/tools/embeds/video-player/player-no-ads.html?url=https://d2rhwptr68oefh.cloudfront.net/wp-startribunemedia/Carlos_Gonazalez/20260406/69d44223ef096c66f498cf3b/t_05c973f411ef4562bb0160aa8cf5c482_name_HANDSHAKES_Bones_16X9/file_1920x1080-5400-v4.mp4&amp;shape=default&amp;thumbnail=https://arc-goldfish-startribunemedia-thumbnails.s3.amazonaws.com/04-06-2026/t_807abc84fd07436fbab54fe6770a4c2d_name_file_1920x1080_5400_v4_.jpg" scrolling="no" marginheight="0" frameborder="0" allowfullscreen="false" loop="" autoplay="" mute="true"></iframe>
+
 	</div>
+
 </div>
-<picture style="display: contents;"><source media="(max-width: 767px)" srcset="https://arc.stimg.co/startribunemedia/NJEWOJUZS5C2LCNEZ6VGPUZB7Q.jpg?&amp;w=390" style="display: contents;"><source media="(min-width: 768px) and (max-width: 1159px)" srcset="https://arc.stimg.co/startribunemedia/NJEWOJUZS5C2LCNEZ6VGPUZB7Q.jpg?&amp;w=720" style="display: contents;"><img data-testid="InLineImage" alt="" data-chromatic="ignore" loading="lazy" width="0" height="0" decoding="async" data-nimg="1" class="object-cover h-auto w-full pt-2" src="https://arc.stimg.co/startribunemedia/NJEWOJUZS5C2LCNEZ6VGPUZB7Q.jpg?&amp;w=1080" style=""></picture><div class="text-[14px] w-full max-w-[575px] mx-auto text-center leading-[125%] pt-2 pb-4">Timberwolves' Mike Conley and Bones Hyland getting hyped up pregame with their custom handshake.</div>
+<div class="text-[14px] w-full max-w-[575px] mx-auto text-center leading-[125%] pt-2 pb-4">Timberwolves' Mike Conley and Bones Hyland getting hyped up pregame with their custom handshake.</div>
 </GridRow>
 
 
