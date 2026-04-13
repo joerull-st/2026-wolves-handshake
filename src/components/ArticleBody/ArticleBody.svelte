@@ -52,7 +52,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
 <Grid additionalClasses={"gap-y-5 pb-4"}>
   <GridRow variant={"inline"} additionalClasses={"gap-y-5"}>
 
-<Paragraph>  <h2 class="w-full  font-editorial-non-news-heading-03 font-regular leading-title text-left mx-auto mt-0 xs:mt-10 pb-2 text-primary xl:text-2xl lg:text-2xl md:text-2xl xs:text-[24px]">NBA veteran Mike Conley has a personal greeting for teammates, friends and staffers that requires a lot of muscle memory.</h2></Paragraph>
+<Paragraph>  <h2 class="w-full  font-editorial-non-news-heading-03 font-regular leading-[1.2] text-left mx-auto mt-0 xs:mt-10 pb-2 text-primary xl:text-[2rem] lg:text-[1.5rem] md:text-2xl xs:text-[24px]">NBA veteran Mike Conley has a personal greeting for teammates, friends and staffers that requires a lot of muscle memory.</h2></Paragraph>
 
 <Paragraph>
     <div class="byline rt-Box col-span-full flex items-center gap-x-2 flex-wrap max-w-2xl mx-auto font-utility-label-reg-02 pb-4">
@@ -60,7 +60,8 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
         <div class="rt-Box w-full mb-3 flex items-center gap-x-2">
           <div class="rt-Box flex flex-col gap-y-0.5">
             <div class="rt-Box flex items-center">
-                <p class="rt-Text font-utility-label-bold-02 text-text-primary relative mr-2">By <a class="!no-underline" href="https://www.startribune.com/author/chris-hine/6370609" target="_blank">Chris Hine</a>, photos and video by <a class="!no-underline" href="https://www.startribune.com/author/carlos-gonzalez/6370603" target="_blank">Carlos Gonzalez</a></p>
+                <p class="rt-Text font-utility-label-bold-02 text-text-primary relative mr-2">By <a class="!no-underline" href="https://www.startribune.com/author/chris-hine/6370609" target="_blank">Chris Hine</a> <br>Photos and video by <a class="!no-underline" href="https://www.startribune.com/author/carlos-gonzalez/6370603" target="_blank">Carlos Gonzalez</a></p>
+                
             </div>
             <span class="rt-Text text-text-secondary font-utility-label-reg-02">The Minnesota Star Tribune</span>
           </div>
