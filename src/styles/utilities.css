@@ -80,7 +80,7 @@
 }
 
 @utility font-editorial-non-news-heading-03 {
-    @apply font-publico-headline-roman font-regular leading-heading-extra-tight md:text-32 text-28;
+    @apply font-publico-headline-roman font-regular leading-heading-extra-tight;
 }
 
 @utility font-editorial-non-news-heading-04 {
