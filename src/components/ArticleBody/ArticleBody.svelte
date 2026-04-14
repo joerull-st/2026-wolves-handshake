@@ -141,7 +141,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
     </GridRow>
 
 
-    <GridRow additionalClasses={"pt-8 pb-4"}>
+    <GridRow additionalClasses={"pt-8 pb-4 md:block xs:hidden"}>
     <link rel="stylesheet" href="https://static.startribune.com/news/tools/embeds/video-player/css/video-iframe_070125.css">
   <div class="video-embed default">
 	<div class="video-inner">
@@ -154,6 +154,17 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
 </GridRow>
 
 
+<GridRow additionalClasses={"pt-8 pb-4 md:hidden xs:block"}>
+  <link rel="stylesheet" href="https://static.startribune.com/news/tools/embeds/video-player/css/video-iframe_070125.css">
+  <div class="video-embed vertical">
+	<div class="video-inner">
+		<iframe src="https://static.startribune.com/news/tools/embeds/video-player/player-no-ads.html?url=https://d2rhwptr68oefh.cloudfront.net/wp-startribunemedia/The_Minnesota_Star_Tribune/20260414/69de9c16a4efa10945aede44/t_23e09525bb094e188c3d5df77c3bc372_name_HANDSHAKES_Bones_Vert/file_540x960-1600-v4.mp4&amp;shape=vertical&amp;thumbnail=https://arc-goldfish-startribunemedia-thumbnails.s3.amazonaws.com/04-14-2026/t_c325822fbdbc4244b83fd75836cb1bdd_name_file_540x960_1600_v4_.jpg" scrolling="no" marginheight="0" frameborder="0" allowfullscreen></iframe>
+	</div>
+</div>
+
+
+<div class="text-[14px] w-full max-w-[645px] mx-auto text-center leading-[125%] pt-2 pb-4">Timberwolves players Mike Conley and Bones Hyland get hyped up pregame with their custom handshake — one of the dozens Conley has committed to memory throughout his long NBA career.</div>
+</GridRow>
 
 <GridRow variant={"inline"} additionalClasses={"gap-y-5"}>
     
