@@ -110,7 +110,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
 
 
 <GridRow additionalClasses={"pt-8 pb-4"}>
-    <picture style="display: contents;"><source media="(max-width: 767px)" srcset="https://arc.stimg.co/startribunemedia/XIPXOHVWYBDMNLTG5D3VBAQ3A4.jpg?&amp;w=390" style="display: contents;"><source media="(min-width: 768px) and (max-width: 1159px)" srcset="https://arc.stimg.co/startribunemedia/XIPXOHVWYBDMNLTG5D3VBAQ3A4.jpg?&amp;w=720" style="display: contents;"><img data-testid="InLineImage" alt="" data-chromatic="ignore" loading="lazy" width="0" height="0" decoding="async" data-nimg="1" class="object-cover h-auto w-full" src="https://arc.stimg.co/startribunemedia/XIPXOHVWYBDMNLTG5D3VBAQ3A4.jpg?&amp;w=1080" style=""></picture><div class="text-[14px] w-full max-w-[575px] mx-auto text-center leading-[125%] pt-2 pb-4">Timberwolves guard Mike Conley (10) shakes hands with teammate Anthony Edwards before the start of their game at Target Center on April 5.</div>
+    <picture style="display: contents;"><source media="(max-width: 767px)" srcset="https://arc.stimg.co/startribunemedia/XIPXOHVWYBDMNLTG5D3VBAQ3A4.jpg?&amp;w=390" style="display: contents;"><source media="(min-width: 768px) and (max-width: 1159px)" srcset="https://arc.stimg.co/startribunemedia/XIPXOHVWYBDMNLTG5D3VBAQ3A4.jpg?&amp;w=720" style="display: contents;"><img data-testid="InLineImage" alt="" data-chromatic="ignore" loading="lazy" width="0" height="0" decoding="async" data-nimg="1" class="object-cover h-auto w-full" src="https://arc.stimg.co/startribunemedia/XIPXOHVWYBDMNLTG5D3VBAQ3A4.jpg?&amp;w=1080" style=""></picture><div class="text-[14px] w-full max-w-[575px] mx-auto text-center leading-[125%] pt-2 pb-4">Timberwolves guard Mike Conley, left, shares custom handshakes with teammates including Anthony Edwards. It's something he's done throughout his 19 seasons in the NBA and helped him become one of the most well-regarded locker room assets in the league. “I’ve always felt that it’s a way to personally connect to people that’s beyond the game,” Conley said.</div>
     </GridRow>
     
     
@@ -150,7 +150,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
 	</div>
 
 </div>
-<div class="text-[14px] w-full max-w-[575px] mx-auto text-center leading-[125%] pt-2 pb-4">Timberwolves' Mike Conley and Bones Hyland getting hyped up pregame with their custom handshake.</div>
+<div class="text-[14px] w-full max-w-[575px] mx-auto text-center leading-[125%] pt-2 pb-4">Timberwolves players Mike Conley and Bones Hyland get hyped up pregame with their custom handshake — one of the dozens Conley has committed to memory throughout his long NBA career.</div>
 </GridRow>
 
 
@@ -221,7 +221,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
 
 
   <GridRow  additionalClasses={"pt-8 pb-4"}>
-    <picture style="display: contents;"><source media="(max-width: 767px)" srcset="https://arc.stimg.co/startribunemedia/ES2SB7H2BREZVILFTJJ2LCNE74.jpg?&amp;w=390" style="display: contents;"><source media="(min-width: 768px) and (max-width: 1159px)" srcset="https://arc.stimg.co/startribunemedia/ES2SB7H2BREZVILFTJJ2LCNE74.jpg?&amp;w=720" style="display: contents;"><img data-testid="InLineImage" alt="" data-chromatic="ignore" loading="lazy" width="0" height="0" decoding="async" data-nimg="1" class="object-cover h-auto w-full" src="https://arc.stimg.co/startribunemedia/ES2SB7H2BREZVILFTJJ2LCNE74.jpg?&amp;w=1080" style="color: transparent;"></picture><div class="text-[14px] w-full max-w-[575px] mx-auto text-center leading-[125%] pt-2 pb-4">Timberwolves guard Mike Conley (10) shakes hands with teammate Rudy Gobert (27) before their game against the Houston Rockets on March 25 at Target Center.</div>
+    <picture style="display: contents;"><source media="(max-width: 767px)" srcset="https://arc.stimg.co/startribunemedia/ES2SB7H2BREZVILFTJJ2LCNE74.jpg?&amp;w=390" style="display: contents;"><source media="(min-width: 768px) and (max-width: 1159px)" srcset="https://arc.stimg.co/startribunemedia/ES2SB7H2BREZVILFTJJ2LCNE74.jpg?&amp;w=720" style="display: contents;"><img data-testid="InLineImage" alt="" data-chromatic="ignore" loading="lazy" width="0" height="0" decoding="async" data-nimg="1" class="object-cover h-auto w-full" src="https://arc.stimg.co/startribunemedia/ES2SB7H2BREZVILFTJJ2LCNE74.jpg?&amp;w=1080" style="color: transparent;"></picture><div class="text-[14px] w-full max-w-[575px] mx-auto text-center leading-[125%] pt-2 pb-4">Every handshake Mike Conley, left, shares with a teammate, like Rudy Gobert, is unique and memorized but starts in a similar way with claps or pats. “You can’t have too many different things going on at the beginning of it, but if you can start it all kind of similar, then you can pick up on who you’re having the handshake with," Conley said.</div>
     </GridRow>
     
     
