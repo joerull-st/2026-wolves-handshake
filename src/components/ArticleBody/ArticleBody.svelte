@@ -52,7 +52,7 @@ The following example uses a ternary to render an image edge-to-edge on mobile b
 <Grid additionalClasses={"gap-y-5 pb-4"}>
   <GridRow variant={"inline"} additionalClasses={"gap-y-5"}>
 
-<Paragraph>  <h2 class="w-full  font-editorial-non-news-heading-03 font-regular leading-[1.1] text-left mx-auto mt-0 xs:mt-10 pb-2 text-primary xl:text-[1.75rem] lg:text-[1.5rem] md:text-2xl xs:text-[24px]">NBA veteran Mike Conley has a personal greeting for teammates, friends and staffers that requires a lot of muscle memory.</h2></Paragraph>
+<Paragraph>  <h2 class="w-full  font-editorial-non-news-heading-03 font-regular leading-[1.1] text-left mx-auto mt-0 xs:mt-10 pb-2 text-primary xl:text-[1.75rem] lg:text-[1.5rem] md:text-[1.35rem] xs:text-[1.35rem]">NBA veteran Mike Conley has a personal greeting for teammates, friends and staffers that requires a lot of muscle memory.</h2></Paragraph>
 
 <Paragraph>
     <div class="byline rt-Box col-span-full flex items-center gap-x-2 flex-wrap mx-auto font-utility-label-reg-02 pb-4">
